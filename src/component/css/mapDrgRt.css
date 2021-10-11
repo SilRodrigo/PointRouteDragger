@@ -1,0 +1,14 @@
+.map-drg-rt {
+    float: left;
+    width: 650px;
+    height: auto;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    transition: max-height 1s 0.45s ease-in;
+}
+
+.minimizeMapDrgRt {
+    max-height: 0;
+    transition: max-height 0.15s ease-out;
+    overflow: hidden;
+}
