@@ -15,7 +15,7 @@ E o arquivo **"mapDrgRt.js"**.
 _Ex:_ <br>
 ![image](https://user-images.githubusercontent.com/86023272/136872226-fd13e403-ce3d-4050-8cd6-7b6a7a2fed83.png)
 
-E por fim, declare a classe "map-drg-rt" no elemento que desejar.
+E por fim, declare a classe "map-drg-rt" no elemento que desejar.<br>
 _Ex:_ <br>
 ![image](https://user-images.githubusercontent.com/86023272/136872322-0c614de3-0cea-43ae-b523-723da0865c3b.png) <br>
 
