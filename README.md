@@ -29,4 +29,4 @@ retornando a rota na ordem em que foi traçada pelo usuário no formato _String_
 Você pode substituir a imagem e os ícones de seleção na parte de configuração do arquivo **mapDrgRt.js** <br>
 ![image](https://user-images.githubusercontent.com/86023272/136872783-e6ce3d6a-e9cb-4681-aa98-932a62c7c170.png)
 
-**Dúvidas e/ou sugestões entre em contato**
+**Dúvidas e/ou sugestões entre em contato!**
